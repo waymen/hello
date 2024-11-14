@@ -2,4 +2,7 @@ module github.com/waymen/hello
 
 go 1.23.3
 
-retract v1.0.0
+retract (
+	v1.0.1
+	v1.0.0
+)
